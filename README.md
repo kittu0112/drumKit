@@ -1,0 +1,2 @@
+# drumkit
+A mini project
